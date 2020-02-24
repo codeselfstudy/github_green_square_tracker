@@ -1,3 +1,5 @@
 body {
     font-family: Inconsolata, monospace;
+    max-width: 900px;
+    margin: 67px auto;
 }
