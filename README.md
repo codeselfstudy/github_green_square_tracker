@@ -4,6 +4,8 @@ This is a simple application to track your Github activity and make sure you are
 
 It's a quick excuse to try Svelte.js.
 
+Work in progress (probably doesn't run yet).
+
 ## Get started
 
 Install the dependencies...
